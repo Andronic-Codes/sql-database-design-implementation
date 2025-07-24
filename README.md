@@ -39,6 +39,6 @@ Technologies Used:
 ### **Contact**:
 Feel free to reach out via LinkedIn or email if you'd like to discuss the project or collaborate.
 
-www.linkedin.com/in/vali-antonio-andronic-231606296
+* www.linkedin.com/in/vali-antonio-andronic-231606296
 
-vali.antonio.andronic@gmail.com
+* vali.antonio.andronic@gmail.com
